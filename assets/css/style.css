@@ -104,17 +104,17 @@ footer h2 {
     max-height: 200px;
 }
 
-.search-engine-optimization img {
+#search-engine-optimization img {
     float: left;
     margin-right: 25px;
 }
 
-.online-reputation-management img {
+#online-reputation-management img {
     float: right;
     margin-left: 25px;
 }
 
-.social-media-marketing img {
+#social-media-marketing img {
     float: left;
     margin-right: 25px;
 }
